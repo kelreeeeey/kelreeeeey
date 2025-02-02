@@ -10,11 +10,12 @@ i do and learn these languages
 
 daily usage :D
 - python
+- LaTeX, cz why not???
 
 on my journey learning these giga chad langs
 - c
 - zig
-- odin and elixir
+- odin and
 - and maybe elixir, idk
 
 <!--
