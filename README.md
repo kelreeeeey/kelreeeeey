@@ -18,6 +18,8 @@ on my journey learning these giga chad langs
 - odin and
 - and maybe elixir, idk
 
+- ODIN and Exlixir seem interesting. feels like python (ofc they're different but anyways) while being less intimidating than C/Zig.
+
 <!--
 **kelreeeeey/kelreeeeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
