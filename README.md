@@ -23,3 +23,4 @@ on my journey learning these giga chad langs
 <!--
 **kelreeeeey/kelreeeeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+OKAY, now i love Odin
