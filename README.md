@@ -18,8 +18,3 @@ OKAY, these are just enough for me rn:
 - Python
 - LaTeX
 - Elixir
-
-<!--
-**kelreeeeey/kelreeeeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-OKAY, now i love Odin
