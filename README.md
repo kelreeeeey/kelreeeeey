@@ -12,13 +12,12 @@ daily usage :D
 - python
 - LaTeX, cz why not???
 
-on my journey learning these giga chad langs
-- c
-- zig
-- odin and
-- and maybe elixir, idk
-
-- ODIN and Exlixir seem interesting. feels like python (ofc they're different but anyways) while being less intimidating than C/Zig.
+OKAY, these are just enough for me rn:
+- C
+- Odin
+- Python
+- LaTeX
+- Elixir
 
 <!--
 **kelreeeeey/kelreeeeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
