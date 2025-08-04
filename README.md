@@ -6,15 +6,6 @@
 
 geo, physics and everthing in between
 
-i do and learn these languages
+I wrote things here: https://kelreeeeey.github.io/yap/
 
-daily usage :D
-- python
-- LaTeX, cz why not???
-
-OKAY, these are just enough for me rn:
-- C
-- Odin
-- Python
-- LaTeX
-- Elixir
+Collections of [marimo](https://marimo.io/) apps i have built: https://kelreeeeey.github.io/marimo-gh-pages/
