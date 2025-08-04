@@ -1,10 +1,6 @@
-### Hi there 👋
-- kinda Nerds :D -> DeepLearning, Seimic, Subsurface-Geoscience
-- How to reach me: taufiq.kelrey1@gmail.com
+I read, write, and code.
 
-#### i'm interested in 
-
-geo, physics and everthing in between
+Interested in geo, physics and everthing in between
 
 I wrote things here: https://kelreeeeey.github.io/yap/
 
